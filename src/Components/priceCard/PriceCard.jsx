@@ -8,7 +8,7 @@ const PriceCard = ({ price }) => {
             <h2 className='text-center'>
                 <span className='text-purple-700 text-5xl font-extrabold'>{price.price}$</span>
                 <span className='text-2xl text-white font-bold'>
-                    /mon
+                    /mon tus
                 </span>
             </h2>
             <h5 className='text-center my-5 text-2xl font-bold'>{price.name}</h5>
